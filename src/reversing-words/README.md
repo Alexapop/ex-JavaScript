@@ -52,5 +52,5 @@ f5-bootcamp-javascript-exercises/
 ## Entregables
 
 - [Repositorio de GitHub](https://github.com/Alexapop/f5-bootcamp-javascript-exercises)
-- ![Vitest](../../img/word-exists-or-not/vitest.jpg)
+- ![Vitest](../../img/reversing-words/reversing-vitest.jpg)
 
