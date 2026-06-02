@@ -7,36 +7,38 @@
 ```text
 f5-bootcamp-javascript-exercises/
 |-- img/
+|   |-- counting-sheep/
+|   |   `-- counting-vitest.jpg
 |   |-- kata-fizzbuzz/
-|     `-- vitest.jpg
-|   |`-- word-exists-or-not/
+|   |   `-- vitest.jpg
+|   |-- reversing-words/
+|   |   `-- reversing-vitest.jpg
+|   `-- word-exists-or-not/
 |       `-- vitest.jpg
-    |`-- reversing-words/
-|       `-- reversing-vitest.jpg
 |-- src/
+|   |-- counting-sheep/
+|   |   |-- README.md
+|   |   `-- counting.js
 |   |-- fizzbuzz/
 |   |   |-- README.md
-|   |    |-- fizzbuzz.js
+|   |   |-- fizzbuzz.js
 |   |   `-- sequence.js
-|   |`-- word-exists-or-not/
-|   |   |-- README.md
-|   |   `-- word-exists.js
-|   |
-|   |`-- reversing-words/
+|   |-- reversing-words/
 |   |   |-- README.md
 |   |   `-- reversing.js
-|
+|   `-- word-exists-or-not/
+|       |-- README.md
+|       `-- word-exists.js
 |-- tests/
+|   |-- counting-sheep/
+|   |   `-- counting.test.js
 |   |-- fizzbuzz/
 |   |   |-- fizzbuzz.test.js
 |   |   `-- sequence-output.txt
-    |
-|   |-- word-exists-or-not/
-|   |   `-- word-exists.test.js
-    |
 |   |-- reversing-words/
 |   |   `-- reversing.test.js
-|   |
+|   |-- word-exists-or-not/
+|   |   `-- word-exists.test.js
 |   `-- example.test.js
 |-- README.md
 |-- package-lock.json
@@ -45,6 +47,7 @@ f5-bootcamp-javascript-exercises/
 
 ## List of Exercises
 
-- [Kata FizzBuzz](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src)
-- [Word Exists or Not](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src)
-- [Reversing Words](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src)
+- [Kata FizzBuzz](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src/fizzbuzz)
+- [Word Exists or Not](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src/word-exists-or-not)
+- [Reversing Words](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src/reversing-words)
+- [Counting Sheep](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src/counting-sheep)

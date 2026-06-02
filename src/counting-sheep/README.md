@@ -101,5 +101,5 @@ f5-bootcamp-javascript-exercises/
 
 *Entregables:*
 
-- [repositorio GitHub]()
-- [tests Vitest]()
+- [repositorio GitHub](https://github.com/Alexapop/f5-bootcamp-javascript-exercises)
+- [tests Vitest](/img/counting-sheep/counting-vitest.jpg)
