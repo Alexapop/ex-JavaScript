@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kata DNI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <main class="dni-page">
+        <section class="dni-tool">
+            <h1>Calcular letra DNI</h1>
+            <button id="iniciar"><b>Iniciar</b></button>
+
+            <div style="display: none" id="formulario-dni">
+                <label for="numero-dni"><strong>Introduce los digitos de tu DNI</strong></label>
+                <input type="text" name="numero-dni" id="numero-dni" maxlength="8" placeholder="Maximo 8 numeros">
+                <div class="dni-actions">
+                    <button id="calcular"><b>Calcular</b></button>
+                    <button id="cancelar"><b>Cancelar</b></button>
+                </div>
+                <p id="resultado-dni"></p>
+            </div>
+        </section>
+    </main>
+    <script type="module" src="kata-dni.js"></script>
+</body>
+
+</html>
