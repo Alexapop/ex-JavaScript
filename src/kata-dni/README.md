@@ -89,11 +89,16 @@ src/kata-dni/
 - Vitest
 
 
-## Test Screenshot
+## Tests
+
+Run the Kata DNI tests:
+
+```bash
+npx.cmd vitest run tests/kata-dni/kata-dni.test.js
+```
 
 ![Vitest screenshot](../../img/kata-dni/vitest.jpg)
 
 ## GitHub Pages
 
-
-
+[View Kata DNI on GitHub Pages](https://alexapop.github.io/f5-bootcamp-javascript-exercises/src/kata-dni/)
