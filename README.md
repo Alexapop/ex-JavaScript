@@ -1,6 +1,6 @@
 # JavaScript Exercises
 
-**This repository contains all the projects that are part of the JavaScript exercises from the Factoria F5 bootcamp**
+**This repository contains the JavaScript exercises from the Factoria F5 bootcamp.**
 
 ## Project Structure
 
@@ -9,6 +9,8 @@ f5-bootcamp-javascript-exercises/
 |-- img/
 |   |-- counting-sheep/
 |   |   `-- counting-vitest.jpg
+|   |-- kata-dni/
+|   |   `-- vitest.jpg
 |   |-- kata-fizzbuzz/
 |   |   `-- vitest.jpg
 |   |-- reversing-words/
@@ -23,6 +25,13 @@ f5-bootcamp-javascript-exercises/
 |   |   |-- README.md
 |   |   |-- fizzbuzz.js
 |   |   `-- sequence.js
+|   |-- kata-dni/
+|   |   |-- README.md
+|   |   |-- index.html
+|   |   |-- kata-dni.js
+|   |   |-- styles.css
+|   |   |-- styles.css.map
+|   |   `-- styles.scss
 |   |-- reversing-words/
 |   |   |-- README.md
 |   |   `-- reversing.js
@@ -35,6 +44,8 @@ f5-bootcamp-javascript-exercises/
 |   |-- fizzbuzz/
 |   |   |-- fizzbuzz.test.js
 |   |   `-- sequence-output.txt
+|   |-- kata-dni/
+|   |   `-- kata-dni.test.js
 |   |-- reversing-words/
 |   |   `-- reversing.test.js
 |   |-- word-exists-or-not/
@@ -51,3 +62,4 @@ f5-bootcamp-javascript-exercises/
 - [Word Exists or Not](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src/word-exists-or-not)
 - [Reversing Words](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src/reversing-words)
 - [Counting Sheep](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src/counting-sheep)
+- [Kata DNI](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src/kata-dni)
